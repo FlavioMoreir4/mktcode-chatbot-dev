@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: MKT Code ChatBots
+ * Plugin Name: MKT Code ChatBot
  * Description: Um chatbot simples para WordPress.
  * Version: 1.0
  * Author: Flavio Moreira
