@@ -1,0 +1,35 @@
+{
+    "name": "mkt-chatbot",
+    "version": "1.0.0",
+    "description": "ChatBot, criado para interagir com usuários, coletar informações diversas.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "sass": "gulp sass",
+        "sass:watch": "gulp sass:watch",
+        "sass-admin": "gulp sass-admin",
+        "sass-admin:watch": "gulp sass-admin:watch",
+        "js": "gulp js",
+        "js:watch": "gulp js:watch",
+        "js-admin": "gulp js-admin",
+        "js-admin:watch": "gulp js-admin:watch",
+        "build": "gulp build",
+        "dev": "gulp default"
+    },
+    "keywords": [
+        "chatbot",
+        "marketing"
+    ],
+    "author": "Flavio Moreira",
+    "license": "MIT",
+    "devDependencies": {
+        "gulp": "^4.0.2",
+        "gulp-autoprefixer": "^8.0.0",
+        "gulp-clean-css": "^4.3.0",
+        "gulp-dest": "^0.2.3",
+        "gulp-rename": "^2.0.0",
+        "gulp-sass": "^5.1.0",
+        "gulp-sourcemaps": "^3.0.0",
+        "gulp-uglify": "^3.0.2",
+        "sass": "^1.66.1"
+    }
+}

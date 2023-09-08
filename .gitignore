@@ -1,0 +1,36 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Diretórios de node_modules e bower_components
+node_modules/
+bower_components/
+
+# Pasta de distribuição (onde os arquivos compilados estão localizados)
+/dist
+
+# Arquivos de Log
+*.log
+
+# Diretórios de cache
+.cache/
+.sass-cache/
+
+# IDE e editor de arquivos
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# Arquivos temporários
+*.tmp
+
+# Configurações do ambiente
+.env
+
+# Pasta de vendor (em projetos PHP)
+/vendor/
+
+# Outros arquivos e diretórios que você deseja ignorar
+# ...
