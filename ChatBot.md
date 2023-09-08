@@ -944,7 +944,7 @@ Este é o contêiner para o chat aberto.
 
 # Visão Geral do uso
 
-Esta documentação fornece uma visão geral do código que implementa um chatbot para a IPMIL. O chatbot faz perguntas ao usuário, coleta respostas e envia os dados coletados para um servidor remoto.
+Esta documentação fornece uma visão geral do código que implementa um chatbot. O chatbot faz perguntas ao usuário, coleta respostas e envia os dados coletados para um servidor remoto.
 
 ## Estrutura Básica do Código
 
