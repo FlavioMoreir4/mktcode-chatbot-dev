@@ -3,6 +3,8 @@ MKT ChatBot
 
 > Projeto `mkt-chatbot` para WordPress
 
+![Demo](Animação.gif)
+
 Sumário
 -------
 
